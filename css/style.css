@@ -71,3 +71,18 @@
         display: block !important;
     }
 }
+.caption{
+    text-align:center;
+    font-size: 30px;
+    font-weight: 900 ;
+    line-height: 30px;
+}
+.author{
+    margin-left: 100px;
+    line-height: 30px;
+    color:gray;
+}
+.content{
+    font-size: 20px;
+    line-height: 25px;
+}
